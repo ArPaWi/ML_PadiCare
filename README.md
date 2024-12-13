@@ -59,6 +59,9 @@ The **ML_PadiCare** project is a machine learning model designed to classify typ
 ### 4. Converting the Model to TFLite
 1. After run the code The TFLite model will be saved in the `tflite_models/` folder.
 
+### 5. Converted Model
+1. The converted model can be accessed in the `models/` `tflite/` folder in this repository.
+
 
 
 
